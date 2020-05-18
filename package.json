@@ -1,0 +1,24 @@
+{
+  "name": "socket_io",
+  "version": "1.0.0",
+  "description": "WebCasting in Node.js using Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishuchhabra/Socket_io.git"
+  },
+  "author": "Vishu Chhabra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishuchhabra/Socket_io/issues"
+  },
+  "homepage": "https://github.com/vishuchhabra/Socket_io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
